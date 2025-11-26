@@ -86,6 +86,16 @@ Here are some examples of the model detecting license plates:
 # Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to fork the repository and submit a PR 🚀   
+Feel free to fork the repository and submit a PR 🚀  
+
+# Acknowledgements
+
+The license plate detection model in this project was trained using the public License Plate Recognition Dataset from Roboflow Universe.
+Dataset URL:
+https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e
+
+## License
+This project is licensed under the MIT License.  
+See the [LICENSE](./LICENSE) file for details.
 
 
