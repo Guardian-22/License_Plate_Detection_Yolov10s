@@ -1,0 +1,4 @@
+ultralytics==8.2.103
+gradio==4.29.0
+opencv-python-headless==4.10.0.84
+numpy

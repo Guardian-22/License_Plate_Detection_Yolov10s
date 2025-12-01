@@ -90,9 +90,12 @@ Feel free to fork the repository and submit a PR 🚀
 
 # Acknowledgements
 
-The license plate detection model in this project was trained using the public License Plate Recognition Dataset from Roboflow Universe.
-Dataset URL:
-https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e
+Dataset Attribution
+This project uses the "License Plate Recognition" dataset created by Roboflow (Roboflow Universe Projects).
+Dataset URL: https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e
+License: CC BY 4.0
+Modifications: Images resized, augmented, and relabeled for YOLO training.
+
 
 ## License
 This project is licensed under the MIT License.  
