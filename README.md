@@ -13,6 +13,52 @@ The repository includes:
 
 📁 Dataset link and details
 
+🖼️ Sample detection results and training visualizations
+
+🌐 Live deployed Gradio app on Hugging Face Spaces
+
+# 🚀 Live Deployment on HuggingFace
+
+My model is deployed on Hugging Face Spaces using Gradio.
+
+You can try the live demo here:
+https://huggingface.co/spaces/Kshitij-Lalge/license-plate-detection-YOLOv10s
+
+<p align="center">
+  <img src="Result/Live_demo.png" alt="Live Demo" width="500">
+</p>
+
+
+# 💻 Run the App Locally
+
+Follow these steps to run the Gradio app and YOLOv10s model locally:
+## Clone the repository
+```bash
+git clone https://github.com/Guardian-22/License_Plate_Detection_Yolov10s.git
+cd License_Plate_Detection_Yolov10s
+``` 
+
+## Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+## Run the Gradio app
+```bash
+python app.py
+```
+
+# Project Structure
+
+```vbnet
+📁 Project Structure
+├── app.py
+├── best.pt 
+├── requirements.txt
+├── README.md
+└── Result/
+```
+
 # Dataset
 Source: Roboflow
 
